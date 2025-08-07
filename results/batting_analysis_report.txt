@@ -1,0 +1,17 @@
+Cricket Batting Analysis Report
+==============================
+
+Video: Video-2.mp4
+Date: 2025-08-07 13:39:12
+
+Batting Mechanics Analysis:
+  - Stance: Good balance, proper alignment
+  - Trigger Movement: Consistent, well-timed
+  - Bat Angle: 45 degrees, optimal for defensive shots
+  - Timing: Good coordination with ball delivery
+  - Shot Type: Defensive stroke
+
+Recommendations:
+  - Maintain the current stance and balance
+  - Consider a slightly earlier trigger movement against faster bowlers
+  - Practice more aggressive shot selection when appropriate

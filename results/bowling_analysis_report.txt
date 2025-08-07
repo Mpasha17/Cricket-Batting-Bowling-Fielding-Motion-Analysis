@@ -1,0 +1,17 @@
+Cricket Bowling Analysis Report
+==============================
+
+Video: Video-2.mp4
+Date: 2025-08-07 13:39:12
+
+Bowling Mechanics Analysis:
+  - Run-up: Consistent pace, good rhythm
+  - Load-up: Compact, efficient arm position
+  - Front Foot Landing: Stable, aligned with target
+  - Release Point: High, good extension
+  - Follow-through: Complete, balanced finish
+
+Recommendations:
+  - Maintain current run-up consistency
+  - Focus on slightly higher release point for more bounce
+  - Work on wrist position at release for increased spin/swing
